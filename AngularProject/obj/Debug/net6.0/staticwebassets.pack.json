@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\ECommerce\\AngularProject\\wwwroot\\EmailTemplates\\RegisterEmail.html",
+      "PackagePath": "staticwebassets\\EmailTemplates\\RegisterEmail.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.AngularProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.AngularProject.props",
+      "PackagePath": "build\\AngularProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AngularProject.props",
+      "PackagePath": "buildMultiTargeting\\AngularProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.AngularProject.props",
+      "PackagePath": "buildTransitive\\AngularProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

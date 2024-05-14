@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "m6zysQqwXmW7Aec2GjY4rwyVWgUIzzc1XXXVZnLoE9g=",
+  "Source": "AngularProject",
+  "BasePath": "_content/AngularProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AngularProject\\wwwroot",
+      "Source": "AngularProject",
+      "ContentRoot": "F:\\ECommerce\\AngularProject\\wwwroot\\",
+      "BasePath": "_content/AngularProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\ECommerce\\AngularProject\\wwwroot\\EmailTemplates\\RegisterEmail.html",
+      "SourceId": "AngularProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\ECommerce\\AngularProject\\wwwroot\\",
+      "BasePath": "_content/AngularProject",
+      "RelativePath": "EmailTemplates/RegisterEmail.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\EmailTemplates\\RegisterEmail.html"
+    }
+  ]
+}
